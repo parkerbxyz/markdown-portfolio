@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![profile image](https://secure.gravatar.com/avatar/d5741a2ecb9dd63c7c73e15ac417d647?size=400)
